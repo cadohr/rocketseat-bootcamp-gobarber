@@ -2,7 +2,7 @@
 
 <h1 align="center">Go Barber</h2>
 <h1 align="center">
-  <img alt="GoBarber" title="GoBarber" src=".github/gobarber.svg" width="300px" />
+  <img alt="GoBarber" title="GoBarber" src=".github/gobarber.svg" width="150px" />
 </h1>
 
 ## About
