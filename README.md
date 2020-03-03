@@ -23,14 +23,26 @@ Get in the project path
 cd rocketseat-bootcamp-gobarber
 ```
 
-Then install the dependencies with:
+Then install the dependencies in server folder
 
 ```sh
-yarn
+cd server && yarn
 ```
 
 Start server with:
 
 ```sh
 yarn dev
+```
+
+Then install the dependencies in web folder
+
+```sh
+cd web && yarn
+```
+
+Start web with:
+
+```sh
+yarn start
 ```
