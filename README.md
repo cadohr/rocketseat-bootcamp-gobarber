@@ -46,3 +46,21 @@ Start web with:
 ```sh
 yarn start
 ```
+
+Then install the dependencies in mobile folder
+
+```sh
+cd mobile && yarn
+```
+
+Start mobile with (Android):
+
+```sh
+react-native run-android
+```
+
+or Start mobile with (IOS):
+
+```sh
+react-native run-ios
+```
