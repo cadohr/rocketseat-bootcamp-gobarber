@@ -29,6 +29,8 @@ Then install the dependencies in server folder
 cd server && yarn
 ```
 
+Copy .env.example and rename to .env and fill all environments
+
 Start server with:
 
 ```sh
